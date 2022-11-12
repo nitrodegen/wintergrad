@@ -1,5 +1,5 @@
 # wintergrad
-WinterGrad is a shitty ML library ( VERY VERY much work in progress)
+WinterGrad is a shitty ML library coded in C/C++ ( VERY VERY much work in progress)
 
 
 <h1>Why?</h1>
